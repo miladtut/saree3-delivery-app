@@ -1,4 +1,4 @@
-package com.fast.fast_delivery_app
+package com.saree3_driver_app.saree3
 
 import android.app.Service
 import android.content.Context
@@ -90,7 +90,7 @@ class BackgroundService : Service(), LifecycleDetector.Listener {
     }
 
     companion object {
-        private const val SHARED_PREFERENCES_NAME = "com.fast.fast_delivery_app"
+        private const val SHARED_PREFERENCES_NAME = "com.saree3_driver_app.saree3"
 
         private const val KEY_CALLBACK_RAW_HANDLE = "callbackRawHandle"
 

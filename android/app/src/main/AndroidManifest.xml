@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.fast.fast_delivery_app"
+    package="com.saree3_driver_app.saree3"
     xmlns:tools="http://schemas.android.com/tools">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -76,7 +76,7 @@
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <service
-            android:name="com.fast.fast_delivery_app.BackgroundService"
+            android:name="com.saree3_driver_app.saree3.BackgroundService"
             android:enabled="true"
             android:exported="false" />
         <meta-data

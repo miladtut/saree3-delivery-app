@@ -3,7 +3,7 @@ import 'package:sixam_mart_delivery/util/images.dart';
 
 class AppConstants {
   static const String APP_NAME = 'Saree3 Delivery';
-  static const double APP_VERSION = 1.4;
+  static const double APP_VERSION = 1.5;
 
   static const String BASE_URL = 'http://185.194.217.48';
   static const String CONFIG_URI = '/api/v1/config';
